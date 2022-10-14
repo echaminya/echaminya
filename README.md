@@ -15,5 +15,6 @@ I've been developing games for about 7 years now
 
 <a href="https://www.twitter.com/echaminya" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/echaminya?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.twitch.tv/aletheluhya" target="_blank" rel="noreferrer"><img
+                /></a>
+                <a href="https://www.twitch.tv/aletheluhya" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/aletheluhya?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
