@@ -9,7 +9,7 @@ I've been in the games industry for 12 years now. Not everything of mine is on G
 *   🌍  I'm based in Kenya at the moment
 *   ✉️  You can contact me at [jmbarani@gmail.com](mailto:jmbarani@gmail.com)
 *   🚀  I'm currently working on different projects. Some of which will really make you laugh and make your day. :D
-*   🧠  I'm always delving deeper into Unreal and C++ and kinda teaching on twitter
+*   🧠  I'm always delving deeper into Unreal and C++ and kinda teaching and sharing tips on twitter
 *   🤝  I'm open to collaborating on C++ or Unreal Engine projects
 *   ⚡  I'm a DC and Marvel fan. I'm not choosy! lol
 
