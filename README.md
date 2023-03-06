@@ -8,7 +8,7 @@ I've been developing games for about 7 years now
 
 *   🌍  I'm based in Kenya at the moment
 *   ✉️  You can contact me at [jmbarani@gmail.com](mailto:jmbarani@gmail.com)
-*   🚀  I'm currently working on [my hobby game : Ale the Luhya](http://play.google.com/store/apps/details?id=com.Echaminya.AleTheLuhya&hl=en&gl=US)
+*   🚀  I'm currently working on different projects. Some of which will really make you laugh and make your day. :D
 *   🧠  I'm always delving deeper into Unreal and C++ and kinda teaching on twitter
 *   🤝  I'm open to collaborating on C++ or Unreal Engine projects
 *   ⚡  I'm a DC and Marvel fan. I'm not choosy! lol
