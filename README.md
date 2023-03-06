@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C++ and Unreal Engine Developer
 -------------------------------
 
-I've been in the games industry for 12 years now
+I've been in the games industry for 12 years now. Not everything of mine is on Github though. :)
 
 *   🌍  I'm based in Kenya at the moment
 *   ✉️  You can contact me at [jmbarani@gmail.com](mailto:jmbarani@gmail.com)
